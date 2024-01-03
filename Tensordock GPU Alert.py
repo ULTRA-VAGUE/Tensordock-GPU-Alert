@@ -64,7 +64,7 @@ async def main():
         
         # Check for the GPU model and location
         print("Looking for the GPU model and location...")
-        elements = driver.find_elements(By.XPATH, '//span[contains(text(), "RTX")]')
+        elements = driver.find_elements(By.XPATH, '//span[contains(text(), "")]')
         locations = driver.find_elements(By.XPATH, '//span[@class="region-info"]')
         for element, location in zip(elements, locations):
             card_name = element.text.strip()  # remove leading and trailing whitespace
