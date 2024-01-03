@@ -12,10 +12,35 @@ One of the key features of this script is its integration with Telegram. When a 
 # How to Use
 
 **Step 1: Install Python**
+
 First, you need to have Python installed on your machine. You can download it from the official website: https://www.python.org/downloads/
 
 **Step 2: Install Firefox**
+
 You need to have Firefox installed as the script uses Firefox’s WebDriver. You can download Firefox from here: https://www.mozilla.org/en-US/firefox/new/
 
 **Step 3: Install Required Libraries**
+
 You will need several Python libraries. You can install them using pip, which is a package installer for Python.
+open your terminal or command prompt at the location where you placed TensordockGPUAlert.py  and type the following command:
+``` pip install -r requirements.txt ```
+
+
+**Step 4: Get Your Telegram Bot Token and Chat ID**
+
+You need to create a bot on Telegram to get your bot token. You can do this by talking to BotFather on Telegram. More details can be found here: https://core.telegram.org/bots#botfather
+
+To get your chat ID Invite @RawDataBot to your newly made group.
+
+Upon joining it will output a JSON file where your chat id will be located at message.chat.id.
+
+**Step 5: Update the Python Script**
+
+Replace 'YOUR_BOT_TOKEN' and 'YOUR_CHAT_ID' in the Python script with your actual bot token and chat ID.
+
+
+Finally, you can run the script. Save it as a .py file and run it using Python from your terminal or command prompt:
+
+python your_script.py
+
+And that’s it! Your bot should now be up and running. If you have any questions or run into any issues, feel free to ask. 😊
