@@ -3,7 +3,7 @@ TensorDock GPU Alert is a Python script that monitors GPU server availability on
 
 This is a powerful tool designed to monitor the availability of GPU servers on the TensorDock Marketplace. This Python script continuously checks the marketplace and identifies new servers as they become available.
 
-Users are able to choose from every available GPU Model offered by TensorDock to meet their specific needs. They can select multiple GPUs with a simple GUI
+Users are able to choose from every available GPU Model offered by TensorDock to meet their specific needs. They can select multiple GPUs using my simple GUI.
 
 The script is designed to provide detailed information about each server, including the model of the GPU and its location. This allows users to quickly identify servers that meet their specific requirements.
 
