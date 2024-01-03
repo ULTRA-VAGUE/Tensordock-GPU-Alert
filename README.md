@@ -38,8 +38,6 @@ https://core.telegram.org/bots#botfather
 
 To get your chat ID Invite @raw_data_bot to a newly made group.
 
-Upon joining it will output a JSON file where your chat id will be located at message.chat.id.
-
 **Step 5: Update the Python Script**
 
 Replace 'YOUR_BOT_TOKEN' and 'YOUR_CHAT_ID' in the Python script with your actual bot token and chat ID. Don´t forget the minus for the Chat ID.
