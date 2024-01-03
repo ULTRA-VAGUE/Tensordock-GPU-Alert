@@ -47,6 +47,6 @@ Replace 'YOUR_BOT_TOKEN' and 'YOUR_CHAT_ID' in the Python script with your actua
 
 ***Finally, you can run the script. Save it as a .py file and run it using Python from your terminal or command prompt:***
 
-```python your_script.py```
+```python TensordockGPUAlert.py```
 
 And that’s it! Your bot should now be up and running. If you have any questions or run into any issues, feel free to ask. 😊
