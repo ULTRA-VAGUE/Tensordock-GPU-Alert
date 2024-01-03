@@ -30,9 +30,11 @@ open your terminal or command prompt at the location where you placed Tensordock
 
 **Step 4: Get Your Telegram Bot Token and Chat ID**
 
-You need to create a bot on Telegram to get your bot token. You can do this by talking to BotFather on Telegram. More details can be found here: https://core.telegram.org/bots#botfather
+You need to create a bot on Telegram to get your bot token. You can do this by talking to BotFather on Telegram. More details can be found here:
 
-To get your chat ID Invite @RawDataBot to your newly made group.
+https://core.telegram.org/bots#botfather
+
+To get your chat ID Invite @RawDataBot to a newly made group.
 
 Upon joining it will output a JSON file where your chat id will be located at message.chat.id.
 
