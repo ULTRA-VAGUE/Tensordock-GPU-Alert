@@ -36,7 +36,7 @@ You need to create a bot on Telegram to get your bot token. You can do this by t
 
 https://core.telegram.org/bots#botfather
 
-To get your chat ID Invite @RawDataBot to a newly made group.
+To get your chat ID Invite @raw_data_bot to a newly made group.
 
 Upon joining it will output a JSON file where your chat id will be located at message.chat.id.
 
