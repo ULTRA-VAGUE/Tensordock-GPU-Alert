@@ -22,6 +22,7 @@ You need to have Firefox installed as the script uses Firefox’s WebDriver. You
 **Step 3: Install Required Libraries**
 
 You will need several Python libraries. You can install them using pip, which is a package installer for Python.
+
 open your terminal or command prompt at the location where you placed TensordockGPUAlert.py  and type the following command:
 ``` pip install -r requirements.txt ```
 
