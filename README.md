@@ -40,11 +40,11 @@ Upon joining it will output a JSON file where your chat id will be located at me
 
 **Step 5: Update the Python Script**
 
-Replace 'YOUR_BOT_TOKEN' and 'YOUR_CHAT_ID' in the Python script with your actual bot token and chat ID.
+Replace 'YOUR_BOT_TOKEN' and 'YOUR_CHAT_ID' in the Python script with your actual bot token and chat ID. Don´t forget the minus for the Chat ID.
 
 
-Finally, you can run the script. Save it as a .py file and run it using Python from your terminal or command prompt:
+***Finally, you can run the script. Save it as a .py file and run it using Python from your terminal or command prompt:***
 
-python your_script.py
+```python your_script.py```
 
 And that’s it! Your bot should now be up and running. If you have any questions or run into any issues, feel free to ask. 😊
