@@ -7,7 +7,7 @@ from aiogram import Bot, types
 import asyncio
 
 bot_token = 'YOUR_BOT_TOKEN'
-chat_id = 'YOUR_CHAT_ID'
+chat_id = '-YOUR_CHAT_ID'
 bot = Bot(token=bot_token)
 
 gpu_dict = {
